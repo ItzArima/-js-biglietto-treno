@@ -16,4 +16,4 @@ else{
     var prezzo = (distanza * 0.21);
 }
 var prezzo = prezzo.toFixed(2);
-document.write("Ciao! <br> Devi pagare: " + prezzo + "Euro");
+document.write("Ciao! <br> Devi pagare: " + prezzo + " Euro");
